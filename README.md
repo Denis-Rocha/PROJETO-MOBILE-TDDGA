@@ -1,7 +1,7 @@
 # PROJETO-MOBILE-TDDGA
 
 Colaboradores:
-Bryan Henrique Gomes Rocha
+Bryan Henrique Gomes Rocha <BR>
 Denis Rocha Lemos
 
 
