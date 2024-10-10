@@ -1,5 +1,6 @@
 # PROJETO-MOBILE-TDDGA
 
+APLICATIVO MOBILE SOBRE O COMPOSITOR MICHAEL GIACCHINO <BR>
 Colaboradores: <BR>
 Bryan Henrique Gomes Rocha <BR>
 Denis Rocha Lemos
