@@ -6,4 +6,6 @@ Bryan Henrique Gomes Rocha <BR>
 Denis Rocha Lemos
 
 
-## MICHAEL GIACCHINO
+## MICHAEL GIACCHINO 
+Michael Giacchino é um compositor americano de música para cinema, televisão e videogame. <BR>
+Ele recebeu muitos elogios por seu trabalho, incluindo um Oscar por Up, um Emmy por Lost e três prêmios Grammy.
