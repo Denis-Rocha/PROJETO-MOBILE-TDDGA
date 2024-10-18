@@ -12,3 +12,6 @@ Ele recebeu muitos elogios por seu trabalho, incluindo um Oscar por Up, um Emmy 
 
 ## WIKI
 <a href="https://github.com/Denis-Rocha/PROJETO-MOBILE-TDDGA/wiki/Biografia">Biografia</a>
+<a href="https://github.com/Denis-Rocha/PROJETO-MOBILE-TDDGA/wiki/Curiosidades">Curiosidades</a>
+<a href="https://github.com/Denis-Rocha/PROJETO-MOBILE-TDDGA/wiki/Referencias">Referencias</a>
+<a href="https://github.com/Denis-Rocha/PROJETO-MOBILE-TDDGA/wiki/%C3%81lbuns">Álbuns</a>
