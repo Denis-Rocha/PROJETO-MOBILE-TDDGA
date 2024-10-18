@@ -9,3 +9,6 @@ Denis Rocha Lemos
 ## MICHAEL GIACCHINO 
 Michael Giacchino é um compositor americano de música para cinema, televisão e videogame. <BR>
 Ele recebeu muitos elogios por seu trabalho, incluindo um Oscar por Up, um Emmy por Lost e três prêmios Grammy.
+
+## WIKI
+<a href="https://github.com/Denis-Rocha/PROJETO-MOBILE-TDDGA.wiki.git">Biografia</a>
